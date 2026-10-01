@@ -1,8 +1,5 @@
-- 👀 I’m interested in Data Engineering, Machine Learning, IIoT, Reinforcement Learning 
-- 🌱 I’m currently working as a Data Engineer
-- 📫 How to reach me: Wouldn't you like to know...
-
-<!---
-CrispyJLoHalo/CrispyJLoHalo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Currently pursuing M.Sc. Data Science (Data Engineering) @ Queen Mary University London
+- Committee Member of Queen Mary Machine Learning Society
+- Used to work as a data engineer in consulting 
+- I’m interested in data engineering, machine learning systems, reinforcement learning 
+- How to reach me: Wouldn't you like to know...
